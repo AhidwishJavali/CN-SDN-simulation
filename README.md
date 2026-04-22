@@ -223,23 +223,23 @@ INFO: Known MACs         : [h1, h2, h3, h4]
 Add your screenshots here after running the project:
 
 - Screenshot 1 — POX Controller Started
-![alt text](1.png)
+![alt text](ProofOfExecution/1.png)
 - Screenshot 2 — Topology Built
-![alt text](2.png)
+![alt text](ProofOfExecution/2.png)
 - Screenshot 3 — BCAST Allowed Logs
-![alt text](3,9.png)
+![alt text](ProofOfExecution/3,9.png)
 - Screenshot 4 — BLOCKED Logs
-![alt text](4.png)
+![alt text](ProofOfExecution/4.png)
 - Screenshot 5 — pingall 0% Loss
-![alt text](5.png)
+![alt text](ProofOfExecution/5.png)
 - Screenshot 6 — Flow Tables (dpctl dump-flows)
-![alt text](6.png)
+![alt text](ProofOfExecution/6.png)
 - Screenshot 7 — iperf Throughput
-![alt text](7.png)
+![alt text](ProofOfExecution/7.png)
 - Screenshot 8 — Wireshark ARP Capture
-![alt text](8.png)
+![alt text](ProofOfExecution/8.png)
 - Screenshot 9 — Statistics Output
-![alt text](3,9-1.png)
+![alt text](ProofOfExecution/3,9.png)
 
 ---
 
